@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
+
+body {
+  /* font-family: "Kanit", sans-serif; */
+  font-family: "Quicksand", sans-serif;
+  font-size: 14px;
+}
+.webname {
+  text-transform: uppercase;
+  font-size: 1.05em;
+  letter-spacing: 2px;
+}
+.logo {
+  font-size: 16px;
+  color: Dodgerblue;
+  padding-right: 0;
+}
+.intro {
+}
+.teaching{
+  background-color: #FDCA40;
+}
+.icon{
+  color: Dodgerblue;
+  font-size: 60px;
+}
+.topic1{
+  font-size: 30px;
+}
+
+.topic2{
+  font-size: 20px;
+}
+.logofooter{
+  font-size: 3em;
+}
+.social{
+  font-size: 1.2em;
+}
+@media(max-width: 768px){
+  .social{
+    font-size: 0.8em;
+  }
+ 
+}
